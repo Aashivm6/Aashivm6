@@ -19,7 +19,6 @@ Here are a few of the projects I am working on:
 1. **Cafe Sales Dashboard** – Sales performance KPIs, trends, and visual insights using Power BI.  
 2. **Excel Financial Tracker** – A personal finance tool built with Excel + VBA macros.  
 3. **Layoffs Dataset Analysis** – Data cleaning, SQL querying, and EDA using Python.  
-4. **Excel Time Management Tool** – Task tracking and weekly productivity dashboard.
 
 ---
 
