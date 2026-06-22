@@ -9,7 +9,7 @@
 I'm a Management Engineering student passionate about learning how to use data to solve real-world problems.  
 I enjoy turning raw data into clear, actionable insights through dashboards and analytical models.
 
-I am continuously improving my skills in **MySQL, Power BI, Python, Excel VBA, and R**, and I’m currently seeking a **Winter 2026 internship** in Data Analytics, Business Intelligence, or Operations Analysis.
+I am continuously improving my skills in **MySQL, Power BI, Python, Excel VBA, and R**, and I’m currently seeking a **Fall 2026 internship** in Data Analytics, Business Intelligence, or Operations Analysis.
 
 ---
 
